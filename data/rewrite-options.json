@@ -85,6 +85,16 @@
        "is_recommended": false
       },
       {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
        "id": 11,
        "code": "jc_muti_language_1",
        "name": "超级改写(扩写降重，改后字数增加20%-40%)",
@@ -146,6 +156,16 @@
        "code": "zh_jc_4_0325",
        "name": "降重测试模式0325-4",
        "description": "降重测试模式0325-4",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -219,6 +239,16 @@
        "is_recommended": false
       },
       {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
        "id": 11,
        "code": "jc_muti_language_1",
        "name": "超级改写(扩写降重，改后字数增加20%-40%)",
@@ -280,6 +310,16 @@
        "code": "zh_jc_4_0325",
        "name": "降重测试模式0325-4",
        "description": "降重测试模式0325-4",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -353,6 +393,16 @@
        "is_recommended": false
       },
       {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
        "id": 11,
        "code": "jc_muti_language_1",
        "name": "超级改写(扩写降重，改后字数增加20%-40%)",
@@ -414,6 +464,16 @@
        "code": "zh_jc_4_0325",
        "name": "降重测试模式0325-4",
        "description": "降重测试模式0325-4",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -487,6 +547,16 @@
        "is_recommended": false
       },
       {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
        "id": 11,
        "code": "jc_muti_language_1",
        "name": "超级改写(扩写降重，改后字数增加20%-40%)",
@@ -548,6 +618,16 @@
        "code": "zh_jc_4_0325",
        "name": "降重测试模式0325-4",
        "description": "降重测试模式0325-4",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -621,6 +701,16 @@
        "is_recommended": false
       },
       {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
        "id": 11,
        "code": "jc_muti_language_1",
        "name": "超级改写(扩写降重，改后字数增加20%-40%)",
@@ -682,6 +772,16 @@
        "code": "zh_jc_4_0325",
        "name": "降重测试模式0325-4",
        "description": "降重测试模式0325-4",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 15,
+       "code": "jc_muti_language_zh",
+       "name": "降重模式260206_zh",
+       "description": "降重模式260206_zh",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -1342,6 +1442,16 @@
        "max_length": 50000,
        "rate_limit": 60,
        "is_recommended": false
+      },
+      {
+       "id": 5,
+       "code": "jc_remove_djgzl_p_8",
+       "name": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "description": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
       }
      ]
     },
@@ -1555,16 +1665,6 @@
        "is_recommended": false
       },
       {
-       "id": 4,
-       "code": "aimove_大雅句子_1",
-       "name": "AI移除_12.14_对大雅，YY降AI力度强",
-       "description": "AI移除_12.14_对大雅，YY降AI力度强",
-       "price_per_1k": 0.44,
-       "max_length": 50000,
-       "rate_limit": 60,
-       "is_recommended": false
-      },
-      {
        "id": 145,
        "code": "wanfang_0731",
        "name": "0731-万方专用",
@@ -1596,6 +1696,16 @@
        "code": "aimove_matrix_s_1",
        "name": "AI移除_7.22(降小说新闻等泛娱乐模型)",
        "description": "AI移除_7.22(降小说新闻等泛娱乐模型)",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 5,
+       "code": "jc_remove_djgzl_p_8",
+       "name": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "description": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -1727,6 +1837,16 @@
        "max_length": 50000,
        "rate_limit": 60,
        "is_recommended": false
+      },
+      {
+       "id": 5,
+       "code": "jc_remove_djgzl_p_8",
+       "name": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "description": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
       }
      ]
     },
@@ -1850,6 +1970,16 @@
        "code": "aigcmove_tp_s_merge_1",
        "name": "降ai模式-混合模式",
        "description": "降ai模式-混合模式",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
+      },
+      {
+       "id": 5,
+       "code": "jc_remove_djgzl_p_8",
+       "name": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "description": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2120,10 +2250,10 @@
        "is_recommended": false
       },
       {
-       "id": 4,
-       "code": "aimove_大雅句子_1",
-       "name": "AI移除_12.14_对大雅，YY降AI力度强",
-       "description": "AI移除_12.14_对大雅，YY降AI力度强",
+       "id": 5,
+       "code": "jc_remove_djgzl_p_8",
+       "name": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "description": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2382,16 +2512,6 @@
        "max_length": 50000,
        "rate_limit": 60,
        "is_recommended": false
-      },
-      {
-       "id": 4,
-       "code": "aimove_大雅句子_1",
-       "name": "AI移除_12.14_对大雅，YY降AI力度强",
-       "description": "AI移除_12.14_对大雅，YY降AI力度强",
-       "price_per_1k": 0.44,
-       "max_length": 50000,
-       "rate_limit": 60,
-       "is_recommended": false
       }
      ]
     },
@@ -2529,6 +2649,16 @@
        "max_length": 50000,
        "rate_limit": 60,
        "is_recommended": false
+      },
+      {
+       "id": 5,
+       "code": "jc_remove_djgzl_p_8",
+       "name": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "description": "AI移除_5.09(降AI能力很强，口语化+一逗到底）",
+       "price_per_1k": 0.44,
+       "max_length": 50000,
+       "rate_limit": 60,
+       "is_recommended": false
       }
      ]
     },
@@ -2556,16 +2686,6 @@
        "max_length": 50000,
        "rate_limit": 60,
        "is_recommended": true
-      },
-      {
-       "id": 4,
-       "code": "aimove_大雅句子_1",
-       "name": "AI移除_12.14_对大雅，YY降AI力度强",
-       "description": "AI移除_12.14_对大雅，YY降AI力度强",
-       "price_per_1k": 0.44,
-       "max_length": 50000,
-       "rate_limit": 60,
-       "is_recommended": false
       }
      ]
     }
@@ -2686,8 +2806,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2697,8 +2817,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2713,8 +2833,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2724,8 +2844,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2740,8 +2860,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2751,8 +2871,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2767,8 +2887,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2778,8 +2898,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2794,8 +2914,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2805,8 +2925,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2821,8 +2941,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2832,8 +2952,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2848,8 +2968,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2859,8 +2979,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2875,8 +2995,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2886,8 +3006,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,
@@ -2929,8 +3049,8 @@
      "recommended_preset": {
       "id": 3,
       "code": "turnitin_s_1",
-      "name": "turnitin260430",
-      "description": "turnitin260430",
+      "name": "turnitin260917",
+      "description": "turnitin260917",
       "price_per_1k": 0.44,
       "max_length": 50000,
       "rate_limit": 60,
@@ -2940,8 +3060,8 @@
       {
        "id": 3,
        "code": "turnitin_s_1",
-       "name": "turnitin260430",
-       "description": "turnitin260430",
+       "name": "turnitin260917",
+       "description": "turnitin260917",
        "price_per_1k": 0.44,
        "max_length": 50000,
        "rate_limit": 60,

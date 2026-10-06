@@ -30,11 +30,6 @@
      "price_per_1k_words": 0.1
     },
     {
-     "task_platform": "万方_zh",
-     "task_name": "paperpass",
-     "price_per_1k_words": 0.1
-    },
-    {
      "task_platform": "PaperPass_zh",
      "task_name": "paperpass0618",
      "price_per_1k_words": 0.1
@@ -42,16 +37,6 @@
     {
      "task_platform": "华宸_zh",
      "task_name": "aigcmove_tp_s_1",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "paperred_zh",
-     "task_name": "zhiwang",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "writepass_zh",
-     "task_name": "zhiwang",
      "price_per_1k_words": 0.1
     },
     {
@@ -127,48 +112,8 @@
      "price_per_1k_words": 0.1
     },
     {
-     "task_platform": "Paperyy_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "笔杆网_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "万方_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "PaperPass_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
      "task_platform": "华宸_en",
      "task_name": "aimove_weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "paperred_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "writepass_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "大雅_en",
-     "task_name": "weipu_english",
-     "price_per_1k_words": 0.1
-    },
-    {
-     "task_platform": "朱雀_en",
-     "task_name": "weipu_english",
      "price_per_1k_words": 0.1
     }
    ],

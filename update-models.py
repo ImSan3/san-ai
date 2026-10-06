@@ -33,6 +33,8 @@ PRETTY = {
     'aigcmove_wanfang_sj': '万方双降专用', 'aigcmove_weipu_sj': '维普双降专用',
     'aigcmove_daya_sj': '大雅双降专用', 'aigcmove_zhuque_sj': '朱雀双降专用',
     'aigcmove_paperpass_sj': 'PaperPass双降专用', 'aigcmove_turnitin_sj': '英语双降0826',
+    'jc_remove_djgzl_p_8': 'AI移除5.09(力度强·口语化)', 'jc_muti_language_zh': '降重260206(中文专用)',
+    'aigcmove_sj_s_1': '双降模式1', 'aigcmove_sj_s_2': '双降模式2', 'aigcmove_sj_s_3': '双降模式3',
 }
 DESC30112 = {'1': '幅度小·学术性强', '2': '幅度小·学术性强', '3': '能力强·幅度中',
              '4': '能力强·幅度中', '5': '很强·幅度大'}
@@ -101,7 +103,7 @@ def old_model_data():
     """从 git HEAD 的 index.html 提取旧版 MODEL_DATA（JS 对象字面量，用 node 转成 JSON）"""
     src = subprocess.run(['git', '-C', str(ROOT), 'show', 'HEAD:index.html'],
                          capture_output=True, text=True).stdout
-    m = re.search(r'const MODEL_DATA=(\{.*?\});\n', src, re.S)
+    m = re.search(r'(?:const|let) MODEL_DATA=(\{.*?\});\n', src, re.S)
     if not m:
         print('  未在 git HEAD 中找到旧 MODEL_DATA，跳过对比')
         return None
