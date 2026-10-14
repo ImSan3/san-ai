@@ -49,8 +49,10 @@ body::before{content:'';position:fixed;top:-180px;left:-120px;width:560px;height
 body::after{content:'';position:fixed;bottom:-200px;right:-140px;width:620px;height:620px;background:radial-gradient(circle,rgba(38,124,236,.28),transparent 70%);pointer-events:none;z-index:0}
 .page,.toast{position:relative;z-index:1}
 
-/* 隐形暗门入口 */
-.secret-input{position:fixed;top:0;left:8px;width:96px;height:36px;opacity:0;border:none;outline:none;background:transparent;z-index:99;font-family:var(--font)}
+/* 左上角验证码入口：悬停时显现，聚焦后保持可见 */
+.secret-input{position:fixed;top:20px;left:20px;width:144px;height:48px;padding:0 14px;opacity:0;border:1px solid transparent;border-radius:10px;outline:none;background:transparent;box-shadow:none;z-index:99;font-family:var(--font);font-size:.8rem;color:var(--text);transition:opacity .18s ease,background .18s ease,border-color .18s ease,box-shadow .18s ease}
+.secret-input:hover,.secret-input:focus{opacity:1;border-color:#b9d5f3;background:#fff;box-shadow:0 8px 24px rgba(16,70,140,.14)}
+.secret-input::placeholder{color:var(--text3)}
 .icv{flex:none;vertical-align:-0.18em}.h-ic{display:inline-flex;align-items:center;gap:6px}
 
 /* Layout — 大白卡浮层 */
@@ -303,8 +305,8 @@ body::after{transform:translate3d(calc(var(--mx)*-34px),calc(var(--my)*-24px),0)
   <div class="bg-spark s3"></div>
 </div>
 
-<!-- 品牌 logo 移入下方 hero 右侧；左上角隐形入口：点击后输入暗号进管理后台 -->
-<input type="text" id="secretInput" class="secret-input" placeholder="" oninput="checkSecret()" maxlength="10">
+<!-- 左上角隐藏入口：鼠标悬停后显示口令输入框 -->
+<input type="text" id="secretInput" class="secret-input" placeholder="管理口令" aria-label="验证码管理入口口令" autocomplete="off" autocapitalize="off" spellcheck="false" oninput="checkSecret()" maxlength="10">
 
 <div class="page">
   <div class="hero">
@@ -497,7 +499,7 @@ function buildDetectData(d){const out={};['zh','en'].forEach(lg=>{out[lg]=((d.da
 async function refreshOptions(){try{const[ro,dopt]=await Promise.all([fetch(API+'/api/v2/rewrite-options').then(r=>r.json()),fetch(API+'/api/v2/detection/options').then(r=>r.json())]);if(ro&&ro.success&&ro.data){const nd=buildModelData(ro.data);if(nd.reduce)MODEL_DATA=nd;}if(dopt&&dopt.data)DETECT_DATA=buildDetectData(dopt);}catch(e){/* 拉取失败时沿用内嵌数据 */}}
 let state={mode:'remove',lang:'zh',platform:'知网',model:null,inputMode:'text',file:null,taskId:null,taskTimer:null};
 
-function checkSecret(){const v=document.getElementById('secretInput').value;if(v.includes('San3013')){document.getElementById('secretInput').value='';toggleAdmin();}}
+function checkSecret(){const input=document.getElementById('secretInput');if(input.value.trim()==='San3013'){input.value='';toggleAdmin();}}
 
 document.addEventListener('DOMContentLoaded',()=>{
   renderAll();
